@@ -17,8 +17,6 @@ class Fibonacci{
 		int v1=1;
 		System.out.println(v0+", ");
 		System.out.println(v1+", ");
-		for (int i=0;i<5;i++){
-		for(i++<cantidad;)
 			int vn=v1+v0;
 			v0=v1;
 			v1=vn;
