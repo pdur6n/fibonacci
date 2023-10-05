@@ -53,7 +53,7 @@ class Fibonacci{
 			v0=v1;
 			v1=vn;
 			System.out.println(vn+", ");
-		}while(++i<cantidad);
+		}while(++i<cantidad)
 	}
 
 
